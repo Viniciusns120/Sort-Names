@@ -23,4 +23,4 @@ O objetivo é criar um sistema que permita ao usuário inserir uma lista de nome
 - Melhorar habilidades em desenvolvimento web.
 
  ## <h3>📱 Rede Social</h3>
- Alec Ikawa - [Linkedin](https://www.linkedin.com/in/sgt-nascimento/)
+ Vinicius Nascimento - [Linkedin](https://www.linkedin.com/in/sgt-nascimento/)
